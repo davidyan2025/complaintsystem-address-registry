@@ -1,6 +1,10 @@
 {
-  "version": 1,
-  "central_base_url": "https://flexible-ambien-represented-introductory.trycloudflare.com",
-  "updated_at": "2026-10-24T02:01:10.939064+00:00",
-  "status": "published"
+  "version": 2,
+  "companies": {
+    "CS-898A9EE3": {
+      "central_base_url": "https://grant-speeches-seats-acknowledged.trycloudflare.com",
+      "updated_at": "2026-10-26T09:17:18.101581+00:00",
+      "status": "published"
+    }
+  }
 }
