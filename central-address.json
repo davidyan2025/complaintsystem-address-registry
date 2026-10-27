@@ -1,10 +1,11 @@
 {
-  "version": 2,
+  "version": 3,
   "companies": {
     "CS-898A9EE3": {
       "central_base_url": "https://tear-bundle-becoming-consolidation.trycloudflare.com",
-      "updated_at": "2026-10-27T12:45:18.270544+00:00",
-      "status": "published"
+      "updated_at": "2026-10-27T13:35:30.459830+00:00",
+      "status": "published",
+      "server_url": "https://for-earliest-hansen-hans.trycloudflare.com"
     }
   }
 }
