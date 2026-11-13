@@ -24,6 +24,13 @@
       "server_status": "published",
       "server_updated_at": "2026-11-08T03:05:23.001387+00:00",
       "updated_at": "2026-11-08T03:05:23.001387+00:00"
+    },
+    "CS-E6DCF1E7": {
+      "company_name": "EJE",
+      "central_base_url": "https://consortium-summer-humanities-national.trycloudflare.com",
+      "central_status": "published",
+      "central_updated_at": "2026-11-13T11:14:28.313339+00:00",
+      "updated_at": "2026-11-13T11:14:28.313339+00:00"
     }
   }
 }
