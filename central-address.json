@@ -27,6 +27,13 @@
       "server_url": "https://criticism-destiny-temp-downloading.trycloudflare.com",
       "server_status": "published",
       "server_updated_at": "2026-11-15T07:04:48.394727+00:00"
+    },
+    "CS-EA8ED8FA": {
+      "company_name": "AAA",
+      "central_base_url": "https://explicitly-met-legendary-weekly.trycloudflare.com",
+      "central_status": "published",
+      "central_updated_at": "2026-11-15T09:36:28.246033+00:00",
+      "updated_at": "2026-11-15T09:36:28.246033+00:00"
     }
   }
 }
