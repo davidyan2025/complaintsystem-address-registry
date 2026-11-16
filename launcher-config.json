@@ -1,0 +1,9 @@
+{
+  "config_version": 1,
+  "registry": {
+    "owner": "davidyan2025",
+    "repo": "complaintsystem-address-registry",
+    "branch": "main",
+    "file": "central-address.json"
+  }
+}
