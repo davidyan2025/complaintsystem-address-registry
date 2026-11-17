@@ -1,13 +1,6 @@
 {
   "version": 3,
   "companies": {
-    "CS-E6DCF1E7": {
-      "company_name": "EJE",
-      "central_base_url": "https://consortium-summer-humanities-national.trycloudflare.com",
-      "central_status": "published",
-      "central_updated_at": "2026-11-13T11:14:28.313339+00:00",
-      "updated_at": "2026-11-13T11:14:28.313339+00:00"
-    },
     "CS-EA8ED8FA": {
       "company_name": "AAA",
       "central_base_url": "https://explicitly-met-legendary-weekly.trycloudflare.com",
