@@ -42,6 +42,13 @@
       "server_status": "published",
       "server_updated_at": "2026-11-18T07:47:00.955155+00:00",
       "updated_at": "2026-11-18T07:47:00.955155+00:00"
+    },
+    "CS-8ED1A183": {
+      "company_name": "EEE",
+      "central_base_url": "https://burton-cruz-frequencies-relevance.trycloudflare.com",
+      "central_status": "published",
+      "central_updated_at": "2026-11-18T09:19:45.007202+00:00",
+      "updated_at": "2026-11-18T09:19:45.007202+00:00"
     }
   }
 }
