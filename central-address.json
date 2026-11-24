@@ -148,7 +148,10 @@
       "central_base_url": "https://secret-resist-knew-federation.trycloudflare.com",
       "central_status": "published",
       "central_updated_at": "2026-11-24T13:06:18.664214+00:00",
-      "updated_at": "2026-11-24T13:06:18.664214+00:00"
+      "updated_at": "2026-11-24T13:10:18.271713+00:00",
+      "server_url": "https://cookbook-roger-mainstream-surf.trycloudflare.com",
+      "server_status": "published",
+      "server_updated_at": "2026-11-24T13:10:18.271713+00:00"
     }
   }
 }
